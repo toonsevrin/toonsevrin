@@ -33,3 +33,5 @@
 
 <!-- Visitor counter: -->
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftoonsevrin" height=0px>
+
+<p align="center"><b>Secure GPG Key</b><br>5D91 8093 26DB A4A6 D442 BBBA 9649 0067 87BE EF60</p>
